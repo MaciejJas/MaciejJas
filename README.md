@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MaciejJas
-- ✨ I'm trying to learn how to make viruses and antyviruses
+- ✨ I'm trying to learn how to make viruses and antiviruses
+- 🎨 Also doing other stuff
 
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
